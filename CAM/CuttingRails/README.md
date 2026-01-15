@@ -10,7 +10,7 @@ CAM 软件刀具路径识别规划算法
 </p>
 
 ## 算法流程说明
-<img src="../../PIC/cutting_rails.png" height="360"  />
+<img src="../../PIC/cutting_rails.png" width="300"  />
 
 ## 调用示例代码
 ```cpp
