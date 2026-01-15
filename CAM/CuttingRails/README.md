@@ -3,7 +3,7 @@
 本目录提供一段 **加工路径识别（切割轨迹识别）** 的调用示例代码，演示如何对输入模型数据进行。
 
 ## 算法流程说明
-<img src="../PIC/cutting_rails.png" width="360"  />
+<img src="../../PIC/cutting_rails.png" width="360"  />
 
 ## 调用示例代码
 ```cpp
@@ -75,9 +75,9 @@ int main() {
 
 ### 识别结果示例
 <p align="center">
-  <img src="../PIC/012.png" height="260"  />
-  <img src="../PIC/158.png" height="260"  />
-  <img src="../PIC/162.png" height="260"  />
+  <img src="../../PIC/012.png" height="260"  />
+  <img src="../../PIC/158.png" height="260"  />
+  <img src="../../PIC/162.png" height="260"  />
 </p>
 
 ## 依赖环境
