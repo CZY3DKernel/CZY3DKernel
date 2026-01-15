@@ -65,7 +65,7 @@ cd CCModelingKernel
 ### 贡献步骤
 
 1. Fork 本仓库
-2. 克隆到本地：`git clone https://github.com/your-username/kernel-algorithms.git`
+2. 克隆到本地：`git clone https://github.com/ChiChengTech/CCModelingKernel.git`
 3. 创建一个新的分支：`git checkout -b feature/your-feature-name`
 4. 提交你的改动：`git commit -am 'Add new feature or fix bug'`
 5. Push 到你的分支：`git push origin feature/your-feature-name`
