@@ -5,3 +5,4 @@
 - 特征识别 Feature Recognization
 - 曲线曲面平滑 Curve Surface Smoothing
 - 拓扑合并与分割 Topology Merge And Split
+- 多面体布尔运算 Boolean
